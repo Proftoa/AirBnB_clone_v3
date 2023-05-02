@@ -154,6 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+Ogunjobi Moshood - [Github](https://github.com/Proftoa) / [LinkedIn](http://www.linkedin.com/in/moshood-ogunjobi) / [email](ogunjobimoshoodo@gmail.com)
+Sharon Okeke [Github](https://github.com/Sharon5555)
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
